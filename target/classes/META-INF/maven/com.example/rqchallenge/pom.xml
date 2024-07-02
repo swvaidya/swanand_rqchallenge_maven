@@ -61,11 +61,6 @@
 		    <version>4.5.14</version>
 		</dependency>
 	 	-->
-		<dependency>
-			<groupId>com.example</groupId>
-			<artifactId>rest-hateoas-complete</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 	<build>
